@@ -24,5 +24,6 @@ pygame: ```pip install pygame```
 
 
 ## Screenshots
-![image](https://user-images.githubusercontent.com/69050324/119250908-e846c880-bbc0-11eb-9a2e-0373cffd441f.png)
-![image](https://user-images.githubusercontent.com/69050324/119250935-22b06580-bbc1-11eb-85a2-7279c26b98d9.png)
+![image](https://user-images.githubusercontent.com/69050324/119250974-67d49780-bbc1-11eb-9644-5ecf1cf27205.png)
+![image](https://user-images.githubusercontent.com/69050324/119250963-568b8b00-bbc1-11eb-8e92-a6650965abca.png)
+
