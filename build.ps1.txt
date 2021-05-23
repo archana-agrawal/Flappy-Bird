@@ -1,0 +1,13 @@
+ pyinstaller
+ --noconfirm 
+ --clean
+ --onefile
+ --name "Flappy Bird"
+ --add-data "images/bg.jpg;images"
+ --add-data "images/bird.png;images"
+ --add-data "images/rotated_pipe.png;images"
+ --add-data "images/pipe.png;images"
+ --add-data "sounds/sfx_hit.wav;sounds"
+ --add-data "sounds/sfx_point.wav;sounds"
+ --windowed --icon ".\icon.ico"
+ .\main.py
